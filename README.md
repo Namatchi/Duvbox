@@ -1,10 +1,10 @@
 ### **[Forked from Duvbox. See for installation instructions](https://github.com/CircuitRCAY/Duvbox)**
 ## Screenshots
 ### Dark
-![Discord Server]()
+![Discord Server](https://raw.githubusercontent.com/Namatchi/Duvbox/master/screenshots/dark.png)
 
 ### Light
-![Discord Server]()
+![Discord Server](https://raw.githubusercontent.com/Namatchi/Duvbox/master/screenshots/light.png)
 
 ### Disclaimer
 **DO NOT GO TO DISCORD SUPPORT FOR DUVBOX SUPPORT**
