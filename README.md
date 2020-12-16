@@ -1,48 +1,13 @@
-[![The Motherboard](https://discordapp.com/api/guilds/589404444534243352/embed.png?style=banner2)](https://discord.gg/ssdp3sN)
-
-# Duvbox
-This is a theme, based on the [Vim theme](https://github.com/morhetz/gruvbox), named Gruvbox.
-
-## Installation
-Use the relevant installation guides for your modding platform.
-
-* [BeautifulDiscord](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications#beautifuldiscord)
-    
-* [BetterDiscord](https://imgur.com/H7VyWea)
-
-* [Powercord](https://github.com/CircuitCodes/Duvbox/wiki/Installing-For-Powercord)
-
+### **[Forked from Duvbox. See for installation instructions](https://github.com/CircuitRCAY/Duvbox)**
 ## Screenshots
 ### Dark
-
-*Friends list*
-
-![Friends List](https://tik-tok.is-bad.com/5Azd32P.png)
-
-*Chat*
-![Chat](https://tik-tok.is-bad.com/9JPL65k.png)
+![Discord Server]()
 
 ### Light
-*Friends list*
-![Friends List](https://tik-tok.is-bad.com/oypbA8r.png)
-
-*Chat*
-![Chat](https://tik-tok.is-bad.com/2dYodWa.png)
-
-**Sorry if you're in the screenshot, I cannot edit it at this time.*
-
-## Support
-The official support channel is the #duvbox-support channel in The Motherboard. Scroll up and click the invite.
+![Discord Server]()
 
 ### Disclaimer
 **DO NOT GO TO DISCORD SUPPORT FOR DUVBOX SUPPORT**
-
-## Known Issues
-- On the Add Guild modal, Discord forces light theme even on dark theme.
-![Example](https://cdn.discordapp.com/attachments/538759280497786890/735338649650069524/unknown.png)
-- Search bar is irrepairably messed up.
-![Search](https://cdn.discordapp.com/attachments/689342659063578790/735712980939047062/unknown.png)
-
 
 ## License
 This project is licensed under the MIT License.
