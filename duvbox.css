@@ -26,26 +26,28 @@ pre > code {
 .theme-dark {
     --background-primary: #282828;
     --background-secondary: #3c3836;
-    --background-tertiary: #504945;
-    --background-accent: #32302f;
+	/* change these two colors together for unified titlebar color */
+    --background-tertiary: #383330;
+    --background-floating: #383330;
+	/* -- */
+    --background-accent: #3c3836;
     --text-normal: #ebdbb2;
     --text-spotify: #fbf1c7;
     --text-muted: #bdae93;
     --text-link: #458588;
-    --background-floating: #3c3836;
     --header-primary: #ebdbb2;
     --header-secondary: #bdae93;
     --header-spotify: #b8bb26;
     --interactive-normal: #ebdbb2;
     --interactive-hover: #bdae93;
     --interactive-active: #fbf1c7;
-    
 }
 
 .theme-light {
     --background-primary: #fbf1c7;
     --background-secondary: #ebdbb2;
-    --background-tertiary: #d5c4a1;
+    --background-tertiary: #ebdbb2;
+    --background-floating: #ebdbb2;
     --background-accent: #f2e5bc;
     --text-normal: #3c3836;
     --text-muted: #504945;
@@ -53,7 +55,6 @@ pre > code {
     --header-primary: #3c3836;
     --header-secondary: #504945;
     --header-spotify: #98971a;
-    --background-floating: #ebdbb2;
     --interactive-normal: #665c54;
     --interactive-muted: #928374;
     --interactive-hover: #504945;
@@ -85,11 +86,6 @@ div[class*="wrapper"][class*="fixClipping"]{
 /* New Messages Bar */
 div[class*="newMessagesBar"] {
     background-color: var(--background-secondary);
-}
-
-/* Hide the action bar nametag and status */
-section > div[class*="container"] > [class*='nameTag-'] {
-    display:none;
 }
 
 /* Center buttons in the panels container */
